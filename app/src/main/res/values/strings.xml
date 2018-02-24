@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom View Testing</string>
+    <string name="account_name_logged_out">Logged Out</string>
+</resources>
