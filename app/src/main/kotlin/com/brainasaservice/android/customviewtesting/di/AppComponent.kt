@@ -1,7 +1,7 @@
 package com.brainasaservice.android.customviewtesting.di
 
 import com.brainasaservice.android.customviewtesting.DataSourceModule
-import com.brainasaservice.android.customviewtesting.ui.mvp.accountview.AccountViewContract
+import com.brainasaservice.android.customviewtesting.ui.accountview.AccountViewContract
 import dagger.Component
 import javax.inject.Singleton
 

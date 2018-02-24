@@ -1,4 +1,4 @@
-package com.brainasaservice.android.customviewtesting.ui.mvp
+package com.brainasaservice.android.customviewtesting.ui
 
 interface BaseContract {
     interface View {

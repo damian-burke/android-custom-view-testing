@@ -2,8 +2,8 @@ package com.brainasaservice.android.customviewtesting
 
 import com.brainasaservice.android.customviewtesting.data.AccountDataSource
 import com.brainasaservice.android.customviewtesting.model.Account
-import com.brainasaservice.android.customviewtesting.ui.mvp.accountview.AccountViewContract
-import com.brainasaservice.android.customviewtesting.ui.mvp.accountview.AccountViewPresenter
+import com.brainasaservice.android.customviewtesting.ui.accountview.AccountViewContract
+import com.brainasaservice.android.customviewtesting.ui.accountview.AccountViewPresenter
 import com.nhaarman.mockito_kotlin.verify
 import com.nhaarman.mockito_kotlin.whenever
 import org.junit.Before

@@ -1,7 +1,7 @@
 package com.brainasaservice.android.customviewtesting.di
 
-import com.brainasaservice.android.customviewtesting.ui.mvp.accountview.AccountViewContract
-import com.brainasaservice.android.customviewtesting.ui.mvp.accountview.AccountViewPresenter
+import com.brainasaservice.android.customviewtesting.ui.accountview.AccountViewContract
+import com.brainasaservice.android.customviewtesting.ui.accountview.AccountViewPresenter
 import com.brainasaservice.android.customviewtesting.data.AccountDataSource
 import dagger.Module
 import dagger.Provides

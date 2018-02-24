@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".ui.MainActivity">
 
-    <com.brainasaservice.android.customviewtesting.ui.mvp.accountview.AccountView
+    <com.brainasaservice.android.customviewtesting.ui.accountview.AccountView
         android:id="@+id/accountView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
